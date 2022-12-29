@@ -1,0 +1,9 @@
+include,import,invoke
+only run playbook no need output
+connection element in ansible
+how to pass result one playbook to another
+how to find error in task/playbook
+config var,playbook var,extra var-which one give priority
+uri-module
+error-handling-
+only one node run randomly?
